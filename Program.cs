@@ -6,4 +6,9 @@ myFriendsName = "Alice";
 
 // use the variable
 Console.WriteLine(myFriendsName);
+
+// override the variable value
+myFriendsName = "Felix";
+Console.WriteLine(myFriendsName);
+
 Console.ReadKey();
